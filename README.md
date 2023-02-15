@@ -1,4 +1,4 @@
-# Massadoc
+
 # Massa docs
 
 Massa documentation repository.
